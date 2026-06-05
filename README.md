@@ -1,1 +1,1 @@
-Repository containing the code developed for the bachelor thesis Aircraft Taxi-Out Time Prediction and Taxiway Bottleneck Identification Using ADS-B Trajectories. Submitted on 5 June 2026 at the Centre for Aviation (ZAV), Zurich University of Applied Sciences (ZHAW).
+Repository containing the code developed for the bachelor's thesis Aircraft Taxi-Out Time Prediction and Taxiway Bottleneck Identification Using ADS-B Trajectories. Submitted on 5 June 2026 at the Centre for Aviation (ZAV), Zurich University of Applied Sciences (ZHAW).
